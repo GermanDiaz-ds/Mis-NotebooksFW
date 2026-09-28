@@ -10,6 +10,16 @@ A través del procesamiento y la ingeniería de características (*Feature Engin
 
 ---
 
+## <span style="font-size: 26px; font-weight: bold; color: #0d3c6c;">Equipo de trabajo Nro 15</span>
+<ul>
+  <li style="color: #81c6d2;"><b>Fabiana Winterstetter</b></li>
+  <li style="color: #81c6d2;"><b>Nicolás Germán Diaz</b></li>
+  <li style="color: #81c6d2;"><b>Nadir Nahuel Quiroga</b></li>
+   
+</ul>
+
+---
+
 ## 📋 Tabla de Contenidos
 
 - [Descripción del Dataset](#-descripción-del-dataset)

@@ -8,6 +8,7 @@ Este repositorio contiene un proyecto end-to-end de Ciencia de Datos orientado a
 
 A través del procesamiento y la ingeniería de características (*Feature Engineering*) sobre registros masivos de licencias, el proyecto busca identificar patrones clave de ausentismo y entrenar modelos capaces de estimar el volumen, riesgo y duración de las inasistencias.
 
+
 ---
 
 ## <span style="font-size: 26px; font-weight: bold; color: #0d3c6c;">Equipo de trabajo Nro 15</span>

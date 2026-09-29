@@ -89,9 +89,7 @@ El pipeline de preparación transforma el dataset original agregando las siguien
 2. **Regression Models (Duración del Ausentismo):**
    * *Algoritmos:* LightGBM Regressor, CatBoost, Ridge Regression.
    * *Métricas:* RMSE, MAE, $R^2$.
-3. **Análisis de Supervivencia / Reincidencia:**
-   * *Algoritmos:* Cox Proportional Hazards Model.
-   * *Métricas:* Concordance Index (C-index).
+
 
 ---
 
